@@ -87,11 +87,13 @@
 ## My GitHub Data :chart_with_upwards_trend:
 
 
-🏆 420+ Contributions in the Year 2021
+🏆 350+ Contributions in this Year (2023)
 
-📜 400+ Commits on GitHub
+🔑 250+ Contributions in the Year 2022
 
-🔑 200+ Contribution in Private Repos
+📜 650+ Commits on GitHub
+
+
 
 <br>
 <p align="center"> 
