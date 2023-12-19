@@ -68,9 +68,9 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 <p width = 100%>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=techscript-roshan&show_icons=true&locale=en" alt="techscript-roshan" width= "35%" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=techscript-roshan&show_icons=true&locale=en" alt="techscript-roshan" width= "45%" />
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=techscript-roshan&" alt="techscript-roshan" width= "35%" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=techscript-roshan&" alt="techscript-roshan" width= "45%" />
 
 </p>
 
