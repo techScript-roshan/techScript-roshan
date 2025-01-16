@@ -8,8 +8,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-- 🔭 I’m currently working on my side projects
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **React**
 - 🤓 Always `learning new things`.
 - 📄 I’m currently open for a new `job opportunity`.
 - 👨‍💻 All of my projects are available at [https://github.com/techScript-roshan](https://github.com/techScript-roshan)
@@ -86,11 +85,11 @@
 ## My GitHub Data :chart_with_upwards_trend:
 
 
-🏆 350+ Contributions in this Year (2023)
+🏆 50+ Contributions in this Year (2024)
 
-🔑 250+ Contributions in the Year 2022
+🔑 400+ Contributions in this Year (2023)
 
-📜 650+ Commits on GitHub
+📜 750+ Commits on GitHub
 
 
 
@@ -99,4 +98,4 @@
 <img src="https://komarev.com/ghpvc/?username=techscript-roshan&label=Visitors%20&color=0e75b6&style=flat" alt="techscript-roshan" />
 </p>
 
-Last Edited on: 19/12/2023
+Last Edited on: 16/01/2025
